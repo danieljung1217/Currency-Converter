@@ -10,7 +10,7 @@ Requests library
 
 ## Installation
 1. Ensure you have Python installed on your system.
-2.Install the required libraries using the following command: pip install requests
+2. Install the required libraries using the following command: pip install requests
 
 ## Usage
 1. Run the currency_converter.py file using the following command: python currency_converter.py
