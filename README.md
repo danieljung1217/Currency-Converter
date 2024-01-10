@@ -10,11 +10,17 @@ Requests library
 
 ## Installation
 1. Ensure you have Python installed on your system.
-2. Install the required libraries using the following command: pip install requests
+2. Install the required libraries using the following commands:
+   * `pip install requests`
+   * `pip install pyinstaller`
 
 ## Usage
 1. Run the currency_converter.py file using the following command: python currency_converter.py
 2. The GUI window will appear, allowing you to convert currencies.
+
+## Building
+1. Run the following command to install the program as an executable: `pyinstaller main.py --onefile -w`
+2. Open dist\main.exe
 
 ## Features
 * From Section: Select the source currency and enter the amount to convert.
