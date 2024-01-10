@@ -15,7 +15,7 @@ Requests library
    * `pip install pyinstaller`
 
 ## Usage
-1. Run the main.py file using the following command: python main.py
+1. Run the main.py file using the following command: `python main.py`
 2. The GUI window will appear, allowing you to convert currencies.
 
 ## Building
