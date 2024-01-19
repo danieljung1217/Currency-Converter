@@ -1,4 +1,4 @@
-# Currency-Converter
+# Currency Converter
 
 ## Introduction
 This Python program serves as a simple currency converter using an API that provides exchange rates. The graphical user interface (GUI) is built using the Tkinter library, making it user-friendly and accessible.
